@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FeaturedTable/static/css/main.923ca399.css",
+    "main.js": "/FeaturedTable/static/js/main.6f683e95.js",
+    "index.html": "/FeaturedTable/index.html",
+    "main.923ca399.css.map": "/FeaturedTable/static/css/main.923ca399.css.map",
+    "main.6f683e95.js.map": "/FeaturedTable/static/js/main.6f683e95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923ca399.css",
+    "static/js/main.6f683e95.js"
+  ]
+}
